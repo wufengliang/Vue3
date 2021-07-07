@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "strict": false,
+        "paths": {
+            "@vue/shared": [
+                "./shared"
+            ]
+        },
+        "baseUrl": ".",
+        "target": "ESNext",
+        "moduleResolution": "Node"
+    }
+}
